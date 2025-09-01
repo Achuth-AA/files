@@ -1,0 +1,11 @@
+appointment_id,patient_id,scheduled_date,attended_flag,provider_type
+101,1,2025-06-01,Y,GP
+102,1,2025-07-14,N,Specialist
+103,2,2025-06-10,Y,Therapist
+104,3,2025-06-15,Y,GP
+105,3,2025-07-02,Y,Specialist
+106,4,2025-06-03,Y,Therapist
+107,4,2025-07-19,N,GP
+108,5,2025-06-22,Y,GP
+109,6,2025-07-01,N,Therapist
+110,7,2025-06-29,Y,GP

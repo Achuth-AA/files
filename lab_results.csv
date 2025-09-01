@@ -1,0 +1,11 @@
+patient_id,lab_date,test_type,test_value,diagnosis_flag
+1,2025-05-10,HbA1c,5.8,Negative
+2,2025-05-12,LDL,180,Positive
+3,2025-05-18,BP,120/80,Negative
+4,2025-05-22,Glucose,95,Negative
+5,2025-06-02,HbA1c,6.2,Positive
+6,2025-06-05,LDL,190,Positive
+7,2025-06-10,BP,130/85,Negative
+8,2025-06-15,Glucose,110,Negative
+9,2025-06-20,HbA1c,5.9,Negative
+10,2025-06-25,LDL,175,Positive

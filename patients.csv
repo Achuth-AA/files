@@ -1,0 +1,11 @@
+patient_id,gender,age,region,signup_date
+1,M,34,East,2025-01-15
+2,F,47,North,2024-12-20
+3,M,55,South,2025-02-02
+4,F,29,West,2025-01-10
+5,F,38,East,2024-12-28
+6,M,63,North,2025-02-14
+7,M,41,West,2025-01-22
+8,F,26,South,2024-12-18
+9,M,53,East,2025-02-05
+10,F,37,West,2025-01-27
